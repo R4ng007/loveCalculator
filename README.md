@@ -1,1 +1,1 @@
-# loveCalculator.github.io
+# loveCalculator
